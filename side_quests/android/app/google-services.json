@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010237393727",
+    "project_id": "ir-side-quest",
+    "storage_bucket": "ir-side-quest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010237393727:android:72f24e4398aecd5592618a",
+        "android_client_info": {
+          "package_name": "com.example.side_quests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJgR-GD04UXsjJFi98oU_IRrfviN2UTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
