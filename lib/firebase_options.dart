@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'ir-side-quest.firebasestorage.app',
     measurementId: 'G-MWZHDNP6PG',
   );
+
 }
